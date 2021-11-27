@@ -6,4 +6,7 @@ namespace Ttskch\Mntn;
 
 final class Mntn
 {
+    public function run(): void
+    {
+    }
 }
